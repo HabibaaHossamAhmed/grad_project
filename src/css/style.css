@@ -3,5 +3,11 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Podkova', serif;
-  
+
+}
+.d-flex
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
